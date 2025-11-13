@@ -78,10 +78,7 @@ Esta clase se encarga de coordinar las rondas y determinar los resultados.
 
 ## Ejecución del programa
 
-### Opción 1: Consola
-Ejecutar la clase `Main.java` ubicada en `src/principal/`.
-
-### Opción 2: Interfaz gráfica (Swing)
+ Interfaz gráfica (Swing)
 Ejecutar la clase `GameGUI.java` ubicada en `src/vista/`.  
 Esta versión incluye botones para seleccionar la jugada y etiquetas que muestran los resultados de cada ronda.
 
@@ -91,7 +88,6 @@ Esta versión incluye botones para seleccionar la jugada y etiquetas que muestra
 
 - Java JDK 8 o superior  
 - IDE recomendado: **NetBeans 12** o posterior  
-- Sistema operativo: Windows, macOS o Linux
 
 ---
 
